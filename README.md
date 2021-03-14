@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Jongil, a passionate self-taught Machine learning engineer from Korea.
+Hi, I'm Jongil, a passionate self-taught Machine learning engineer from Korea.<br>
 I HOPE TO INSPIRE THE OTHERS FOR GOOD.
 
 ### Machine Learing Engineer
