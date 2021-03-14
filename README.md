@@ -1,9 +1,16 @@
 ### Hi there 👋
 
+Hi, I'm Jongil, a passionate self-taught Machine learning engineer from Korea.
+I HOPE TO INSPIRE THE OTHERS FOR GOOD.
+
+### Machine Learing Engineer
+- Machine Learning Enginner in E-commerce industry(Subscribe Furnitures and lifestyle)
+
+### Interest
+
+
 <!--
 **JIPiration/JIPiration** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I HOPE TO INSPIRE THE OTHERS FOR GOOD.
 
 
 Here are some ideas to get you started:
