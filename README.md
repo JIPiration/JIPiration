@@ -15,11 +15,11 @@ I HOPE TO INSPIRE THE OTHERS FOR GOOD.
 ### Interest
 
 
+
+### Contacts
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jipiration.github.io/)](https://jipiration.github.io/)
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jongil-park-a3b4a61b8/)](https://www.linkedin.com/in/jongil-park-a3b4a61b8/)
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jipiration@gmail.com)](mailto:jipiration@gmail.com)
 
 
