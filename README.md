@@ -12,7 +12,7 @@ I HOPE TO INSPIRE THE OTHERS FOR GOOD.
 ### Machine Learing Engineer
 - Machine Learning Enginner in E-commerce industry(Subscribe Furnitures and lifestyle)
 
-### Interest
+
 <br>
 <br>
 
